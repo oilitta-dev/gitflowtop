@@ -1,3 +1,3 @@
-https://github.com/eduardoattilio/gitflowtop.git link do repositorio
+#gitflowtop
 
 alteração feita direta no gitHUB
